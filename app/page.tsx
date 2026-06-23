@@ -10,7 +10,7 @@ export default function Home() {
         <section>
           <div className="flex flex-col items-center gap-4">
             <div>
-              <h1 className="text-6xl text-center mb-12 font-semibold">
+              <h1 className="text-6xl text-center mb-12 font-semibold leading-17">
                 Track your learning. Achieve your goals.
               </h1>
               <p className="text-center text-xl text-muted-foreground mb-8">
